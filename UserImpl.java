@@ -1,7 +1,7 @@
 
 public class UserImpl implements User {
 
-	//Made password field as String for simplicity. In real code it's better to user char[] for storing passwords.
+	//Made password field as String for simplicity. In real code it's better to use char[] for storing passwords.
 	private String password;
 
 	@Override
